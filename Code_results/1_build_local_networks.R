@@ -1,10 +1,10 @@
-###################################
+##################################
 # date: 09-2024
 # title: Local Networks topology of co-evolutionary selection for hosts and parasites
 # Author: Ana Paula Lula Costa
 # Parameters used: alpha: 0.2; eps: 5; mr: 0.5, mc: 0.7, phi: 0.5
 # Project: Towards Dilution Effect
-###################################
+##################################
 
 # Load Packages
 library(tidyverse)
